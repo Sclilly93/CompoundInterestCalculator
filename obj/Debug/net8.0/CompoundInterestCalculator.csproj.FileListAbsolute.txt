@@ -1,0 +1,14 @@
+/Users/seth/Github/CompoundInterestCalculator/bin/Debug/net8.0/CompoundInterestCalculator
+/Users/seth/Github/CompoundInterestCalculator/bin/Debug/net8.0/CompoundInterestCalculator.deps.json
+/Users/seth/Github/CompoundInterestCalculator/bin/Debug/net8.0/CompoundInterestCalculator.runtimeconfig.json
+/Users/seth/Github/CompoundInterestCalculator/bin/Debug/net8.0/CompoundInterestCalculator.dll
+/Users/seth/Github/CompoundInterestCalculator/bin/Debug/net8.0/CompoundInterestCalculator.pdb
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.AssemblyInfoInputs.cache
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.AssemblyInfo.cs
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.csproj.CoreCompileInputs.cache
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.dll
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/refint/CompoundInterestCalculator.dll
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.pdb
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/CompoundInterestCalculator.genruntimeconfig.cache
+/Users/seth/Github/CompoundInterestCalculator/obj/Debug/net8.0/ref/CompoundInterestCalculator.dll
